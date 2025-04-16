@@ -1,4 +1,8 @@
+
 ## Primero debemos iniciar la maquina
+```
+bash auto_deploy.sh injection.tar
+```
 [![parrot-2024-09-09-14-36-53.png](https://i.postimg.cc/fL5vY4Tj/parrot-2024-09-09-14-36-53.png)](https://postimg.cc/7GG7yWzf)
 ## vemos la ip despues usaremos PING para cpmprobar si la maquina esta encendida
 [![parrot-2024-09-09-14-37-29.png](https://i.postimg.cc/k5zggsSJ/parrot-2024-09-09-14-37-29.png)](https://postimg.cc/gwyWMv4Q)

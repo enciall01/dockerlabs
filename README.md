@@ -1,6 +1,6 @@
 # 🐳 DockerLabs.es - Writeups
 
-Bienvenido al repositorio de **writeups** sobre los laboratorios de hacking y seguridad informática disponibles en [dockerLabs](https://dockerlabs.es). Aquí encontrarás soluciones detalladas, paso a paso, para los retos y máquinas disponibles en la plataforma.
+Bienvenido al repositorio de **writeups** sobre los laboratorios de hacking y seguridad informática disponibles en [dockerLabs.es](https://dockerlabs.es). Aquí encontrarás soluciones detalladas, paso a paso, para los retos y máquinas disponibles en la plataforma.
 
 > ⚠️ **Advertencia:** Este repositorio tiene fines educativos. No utilices estas técnicas sin el consentimiento explícito del propietario del sistema.
 
